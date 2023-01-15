@@ -23,4 +23,4 @@ A comprehensive listing of all the open source events in which I have participat
 [Link3]: https://bit.ly/3XiE3O7
 
 
- ![ background image](bg.jpg) 
+ ![image](bg.png) 
