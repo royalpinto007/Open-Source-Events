@@ -1,5 +1,5 @@
 # Open-Source-Events
- ![background image](bg.jpg) 
+
 A comprehensive listing of all the open source events in which I have participated until the present time.
 
 ## Social Winter of Code (January 2023- Present)
@@ -21,3 +21,6 @@ A comprehensive listing of all the open source events in which I have participat
 [Link1]: https://bit.ly/3XtYszq
 [Link2]: https://bit.ly/3keBbDk
 [Link3]: https://bit.ly/3XiE3O7
+
+
+ ![ background image](bg.jpg) 
